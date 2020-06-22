@@ -1,7 +1,7 @@
 # face-upright-tracking
 Tracking face is at upright position, could be used to check attention-or-not or other use cases.
 
-Install of ffmpeg server:
+Installation of ffmpeg server:
 pip install ffmpeg-python
 
 run app and send output video to ffmpeg server for video streaming:
